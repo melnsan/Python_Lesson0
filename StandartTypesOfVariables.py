@@ -32,4 +32,4 @@ if __name__ == '__main__':
 if __name__ == '__main__':
     a = '123.456'
     b = (float(a) * 10) % 10
-    print("4th program:", int((float(a) * 10) % 10))
+    print("4th program:", int(b))
